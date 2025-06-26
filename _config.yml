@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "JoshUndefined"
+author: "JoshUndefined"
+description: "Random ideas and tutorials as I discover them"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/joshundefined/"}
+  - {title: Twitter-X, icon: x-twitter, url: "https://x.com/JoshUndefined"}
+  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/joshundefined.com"}
+  - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/JoshUndefined"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@joshundefined"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
