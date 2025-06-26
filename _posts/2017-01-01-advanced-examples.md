@@ -42,9 +42,9 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 ## Gists
 
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
+With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command
 
-{% gist 5555251 %}
+Note: removed code example to fix Jekyll build failing
 
 ## Images
 
