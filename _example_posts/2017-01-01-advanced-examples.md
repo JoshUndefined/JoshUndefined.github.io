@@ -42,15 +42,17 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 ## Gists
 
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command
+You can embed gists the following way:
 
-Note: removed code example to fix Jekyll build failing
+```html
+<script src="https://gist.github.com/fb5e60735c6617f83bc275b7ae86cff7.js"> </script>
+```
+
+<script src="https://gist.github.com/fb5e60735c6617f83bc275b7ae86cff7.js"> </script>
 
 ## Images
 
 Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
 
 ![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
 

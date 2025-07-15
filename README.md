@@ -6,7 +6,7 @@ layout: page
 
 ## Installation
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Features
 
@@ -30,18 +30,16 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 - [KaTeX](https://katex.org/)
 - [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
+## Installation
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
+```bash
+git clone https://github.com/niklasbuschmann/contrast.git
+cd contrast
+gem install bundler jekyll jekyll-feed
+bundle exec jekyll serve
 ```
-
-Note: to enable icons you also need to copy over the `_data` folder.
 
 ## Config
 
@@ -65,7 +63,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "archive.html"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -84,7 +82,7 @@ plugins:
 
 ## MathJax
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
 
 ## License
 
