@@ -17,7 +17,7 @@ despite being a lowly casual. I suspect this might get me into some trouble *[ne
 a different version of the game to satisfy what we need to personally enjoy ourselves.
 
 I took a bit of a break generally from the game (around four months) leading up to EoF and returned about three weeks
-ahead of release. Mostly due to a large work project but also I was enjoying Tarkov at the time. While I usually try
+ahead of release. Mostly due to a large work project but also, I was enjoying Tarkov at the time. While I usually try
 to complete Titles and as much content as possible, S26 was the first season in quite a while where I had to tell
 myself, *it's okay to not finish these.*
 
@@ -63,24 +63,27 @@ wipe your team.
 - At first, I was shocked to see Tier 1 gear dropping from the Raid (and even more shocked to hear that included
 Contest). But I am definitely okay with lower tiers dropping to incentivize trying to increase difficulty with the
 feats themselves. I would also be okay with Tier 2 as the base level for drops in a raid.
-- *The boss animations...*
+- *The final boss animations...*
 
 ## Loadout swapping during the raid:
 *opinions*
 - I actually welcome swaps as a game mechanic and part of the skill ceiling. "Menu play" doesn't bother me, I'm a nerd
 and have external spreadsheets for the most general of gameplay.
 - The point is to spend as little time in menus during combat as possible; loadouts allow for that. The time I spend
-in menus is during the buildcrafting and refining between encounter attempts.
-- A personal peeve, "menu play" in fashion menus when I would rather just go right back in to combat for another
-attempt at an encounter as fast as possible. I hope my friends who do this are not also compaining about 
+in menus is during the build crafting and refining between encounter attempts.
+    - *Most of us are doing this anyway*
+- A personal peeve, fireteam members "menu play" in fashion menus when I would rather just go right back in to combat
+for another attempt at an encounter as fast as possible.
 - If contest was NOT designed around loadout swaps, the players already doing it would still do it and 
 - Why are we convinced console players are at a disadvantage for loadout swaps? I play PS5 and have absolutely zero
 issue swapping, even mid super animation. If people aren't aware, push D-pad left and it puts the cursor over the
 top-left slot. I generally leave my top three or four open to be used for the current encounter requiring swaps.
-- Loadout swaps were absolutely not required after contest. I'm curious to see how quickly they become required
-again in custom feat versions of the raid
+- Loadout swaps were absolutely not needed after contest. I'm curious to see how quickly they become required
+again in custom feat versions of the raid.
 
 ## Conclusion
+
+I'm sure there's more I want to say but we can probably stop there for now.
 
 I have spent 4x the time in the raid this weekend compared to the time I've spent playing the core game. I'm going to
 spend more time with it and my opinions may change. Either way, I hope everyone is finding something to enjoy today.
