@@ -53,6 +53,18 @@ be as efficient, very specifically the raid Wyvern timer but who knows how many 
 helped me to perform more effectively.
 - Just wanted to complain, audio is incredibly important to me.
 
+## The Raid:
+- Overall, and especially for the final boss, it feels very good to have mechanics that reward efficient execution
+with faster, consistent paths to damage. In addition, efficient management of the damage extension mechanics allow
+for very manageable two phases and extremely safe three phases
+- Contest aside (I'm curious and following the discussion on potential power delta discrepancies), the normal raid
+was very fun and engaging and not (yet) a mindless experience. You will die, you will fail mechanics, and you will
+wipe your team.
+- At first, I was shocked to see Tier 1 gear dropping from the Raid (and even more shocked to hear that included
+Contest). But I am definitely okay with lower tiers dropping to incentivize trying to increase difficulty with the
+feats themselves. I would also be okay with Tier 2 as the base level for drops in a raid.
+- *The boss animations...*
+
 ## Loadout swapping during the raid:
 *opinions*
 - I actually welcome swaps as a game mechanic and part of the skill ceiling. "Menu play" doesn't bother me, I'm a nerd
@@ -68,19 +80,10 @@ top-left slot. I generally leave my top three or four open to be used for the cu
 - Loadout swaps were absolutely not required after contest. I'm curious to see how quickly they become required
 again in custom feat versions of the raid
 
-## The Raid:
-- Overall, and especially for the final boss, it feels very good to have mechanics that reward efficient execution
-with faster, consistent paths to damage. In addition, efficient management of the damage extension mechanics allow
-for very manageable two phases and extremely safe three phases
-- Contest aside (I'm curious and following the discussion on potential power delta discrepancies), the normal raid
-was very fun and engaging and not (yet) a mindless experience. You will die, you will fail mechanics, and you will
-wipe your team.
-- At first, I was shocked to see Tier 1 gear dropping from the Raid (and even more shocked to hear that included
-Contest). But I am definitely okay with lower tiers dropping to incentivize trying to increase difficulty with the
-feats themselves. I would also be okay with Tier 2 as the base level for drops in a raid.
-- *The boss animations...*
+## Conclusion
 
-
+I have spent 4x the time in the raid this weekend compared to the time I've spent playing the core game. I'm going to
+spend more time with it and my opinions may change. Either way, I hope everyone is finding something to enjoy today.
 
 ---
 
