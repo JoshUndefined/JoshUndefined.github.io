@@ -44,6 +44,6 @@ I have been playing video games for my entire life and have always been highly i
 generally. I will never forget the first time I *heard that magic that was literal Internet* over a 56k modem; I was in
 the first or second grade using one of these bad boys:
 
-![Apple Macintosh Classic 2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Macintosh_Classic_2.jpg/800px-Macintosh_Classic_2.jpg)  
-Apple Macintosh Classic 2, from [Danamania (Wikipedia) CC BY-SA 2.5](https://commons.wikimedia.org/wiki/File:Macintosh_Classic_2.jpg)
+> ![Apple Macintosh Classic 2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Macintosh_Classic_2.jpg/800px-Macintosh_Classic_2.jpg)  
+> Apple Macintosh Classic 2, from [Danamania (Wikipedia) CC BY-SA 2.5](https://commons.wikimedia.org/wiki/File:Macintosh_Classic_2.jpg)
 
