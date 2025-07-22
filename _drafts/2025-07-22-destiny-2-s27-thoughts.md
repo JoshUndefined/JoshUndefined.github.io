@@ -1,7 +1,7 @@
 ---
 title:  "Destiny 2 Season 27 Thoughts"
 layout: post
-categories: media
+categories: gaming
 ---
 
 ![Desert Perpetual Raid](/assets/posts/2025-07-22-PerpetualDesert.png)
@@ -44,3 +44,8 @@ I'm back now and extremely excited to see if changes shift how I want to play th
 - Overall, and especially for the final boss, it feels very good to have mechanics that reward efficient execution with faster, consistent paths to damage. In addition, efficient management of the damage extension mechanics allow for very manageable two phases and extremely safe three phases
 - Contest aside (I'm curious and following the discussion on potential power delta discrepancies), the normal raid was very fun and engaging and not (yet) a mindless experience. You will die, you will fail mechanics, and you will wipe your team.
 - At first, I was shocked to see Tier 1 gear dropping from the Raid (and even more shocked to hear that included Contest). But I am definitely okay with lower tiers dropping to incentivize trying to increase difficulty with the feats
+
+---
+
+Thanks for reading.
+-- *JoshUndefined*
