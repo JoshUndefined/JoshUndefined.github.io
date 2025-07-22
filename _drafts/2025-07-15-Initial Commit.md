@@ -16,6 +16,7 @@ In no particular order:
 - Canadian
 - Video Game enjoyer
 - Dad and Husband
+- Elder Millennial
 - Twitch Streamer/YouTube Creator
     - *Note: one of my favorite things to tell people is that I play video games semi-professionally*
 - Amateur Nerd Tech Enthusiast *(what does that even mean? Future post to elaborate)*
