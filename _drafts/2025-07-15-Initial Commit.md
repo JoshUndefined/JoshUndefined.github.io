@@ -1,7 +1,7 @@
 ---
 title:  "Initial Commit"
 layout: post
-categories: media
+categories: general
 ---
 
 ![JoshUndefined Banner](/assets/posts/2025-07-15-JoshUndefinedYTBanner.png)
@@ -15,14 +15,16 @@ just start with a list of who I am (in no particular order):
 - Video Game enjoyer
 - Dad and Husband
 - Twitch Streamer/YouTube Creator
-- Amateur Nerd Tech Enthusiast *(what does that even mean? See below)*
-- 
-- *TODO*
+    - *Note: one of my favorite things to tell people is that I play video games semi-professionally*
+- Amateur Nerd Tech Enthusiast *(what does that even mean? Future post to elaborate)*
+- Professional Nerd
+- Aspiring Destiny 2 PvE Sherpa
+- Hobby Collector with a specialization in Hyperfocusing
 
 ## What is this place?
 
-My biggest hobby is to collect hobbies, then to hyperfocus and obsess about them for a while. The major result is a
-tendancy to learn a lot of stuff which I then want to share it with others.
+As I stated above, probably my *biggest* hobby is to collect hobbies, then to hyperfocus and obsess about them for a
+while. The major result is a tendency to learn a lot of stuff which I then want to share it with others.
 
 I have been wanting to create a space to post on [potentially random] topics, maybe just discussions or case studies,
 or even tutorials. I hoping that this becomes that space.
@@ -36,14 +38,26 @@ Some examples of the types of content I wish to post about:
 - Backend server setup and admin
 
 This [GitHub repo](https://github.com/joshundefined/joshundefined.github.io/) is also a way for me to learn some
-new-to-me technologies like GitHub pages, static site generators (Jekyll), Markdown syntax
+new-to-me technologies like GitHub pages, static site generators (Jekyll), Markdown syntax.
 
-## How nerdy are we talking, exactly?
+## Let's keep it short
 
-I have been playing video games for my entire life and have always been highly interested in computer technology
-generally. I will never forget the first time I *heard that magic that was literal Internet* over a 56k modem; I was in
-the first or second grade using one of these bad boys:
+I had started to write a bit of an autobiography here (I think possibly to share some context as to why I am the way
+that I am?) but then I realized that this post has been sitting in drafts for an entire week.
 
-> ![Apple Macintosh Classic 2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Macintosh_Classic_2.jpg/800px-Macintosh_Classic_2.jpg)  
-> Apple Macintosh Classic 2, from [Danamania (Wikipedia) CC BY-SA 2.5](https://commons.wikimedia.org/wiki/File:Macintosh_Classic_2.jpg)
+One thing I will say about
+myself is this: I have a lot of ideas and desires to create and do and learn, but I struggle with both execution and
+*completion* of these ideas. Nothing is ever finished, in my mind, so I am actively fighting myself to cross that
+impossible goal line.
 
+So I am going to do something scary. I am going to say to myself, "You know what? This is \[probably\] good enough." And
+even if I don't fully believe it, maybe the next one will start to feel easier.
+
+Here we go:
+
+`git commit && git push`
+
+---
+
+Thanks for reading.
+-- *JoshUndefined*
