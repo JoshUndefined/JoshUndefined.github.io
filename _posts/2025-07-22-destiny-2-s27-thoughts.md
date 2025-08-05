@@ -2,9 +2,10 @@
 title:  "Destiny 2 Season 27 Thoughts"
 layout: post
 categories: gaming
+og_image: "/assets/posts/2025-07-22-PerpetualDesert.png"
 ---
 
-![Desert Perpetual Raid](/assets/posts/2025-07-22-PerpetualDesert.png)
+{% include post-image.html %}
 
 > *I hate this game, it's my favorite.*
 

@@ -1,0 +1,4 @@
+{% assign img = page.og_image | default: page.first_image %}
+{% if img %}
+  <img src="{{ img | relative_url }}" alt="{{ page.title }}">
+{% endif %}

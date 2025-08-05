@@ -2,9 +2,10 @@
 title:  "Initial Commit"
 layout: post
 categories: general
+og_image: "/assets/posts/2025-07-15-JoshUndefinedYTBanner.png"
 ---
 
-![JoshUndefined Banner](/assets/posts/2025-07-15-JoshUndefinedYTBanner.png)
+{% include post-image.html %}
 
 ## > hello, world!
 
