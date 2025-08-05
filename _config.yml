@@ -6,6 +6,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%Y %B %d"
+url: "https://joshundefined.github.io"
 
 # Layout
 
