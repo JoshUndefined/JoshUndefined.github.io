@@ -1,7 +1,7 @@
 title: "JoshUndefined"
 author: "JoshUndefined"
 description: "Random ideas and tutorials as I discover them"
-default_og_image: "https://joshundefined.github.io/assets/posts/2025-07-15-JoshUndefinedYTBanner.png"
+default_og_image: "/assets/posts/2025-07-15-JoshUndefinedYTBanner.png"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
