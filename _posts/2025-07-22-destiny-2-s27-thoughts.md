@@ -13,6 +13,8 @@ I just wanted to gather some of my thoughts and feelings about this first week o
 just personal subjective opinion and experiences which I have no intention of swaying people to agree with me on. We all
 play the game very differently and it is obviously never going to be perfect for every single player.
 
+<!-- excerpt -->
+
 As I'm writing this, I realize that I generally lean way more towards the elitest-side of the community in my opinions
 despite being a lowly casual. I suspect this might get me into some trouble *[nervous "haha"]* but, again, we all play
 a different version of the game to satisfy what we need to personally enjoy ourselves.

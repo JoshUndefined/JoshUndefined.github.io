@@ -9,6 +9,8 @@ og_image: "/assets/posts/2025-08-06-PLACEHOLDER.png"
 
 
 
+<!-- excerpt -->
+
 ---
 
 Thanks for reading.
