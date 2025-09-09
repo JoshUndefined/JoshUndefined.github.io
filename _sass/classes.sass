@@ -1,52 +1,47 @@
-.title
-  font-size: 1.25em
+.nowrap
+  flex-wrap: nowrap
 
-.more
-  margin: 2em 0 1em
+.smooth
+  -webkit-font-smoothing: antialiased
 
-.more a
-  border-radius: 2px
-  border: 1.5px solid $link-color
-  padding: .4em .8em
-  transition: .2s background, .2s color
+.full
+  font-size: 1.5em
+  width: 100%
+  margin: .1em 0 .7em
 
-.more a:hover
+.hover nav:has(svg) a:hover
+  color: gray(100)
+  box-shadow: none
+
+.button a, .dark a
+  font-weight: inherit
+  border-radius: 5px
+
+.button a
+  background: #46f
   color: #fff
-  background: $link-color
-  text-decoration: inherit
+  padding: .25em 1em
+  &:hover
+    background: light(25)
+    text-decoration-color: gray(0)
 
-.archive
-  font-size: 1.1em
-  list-style-type: none
-  padding: 0
-
-.archive li
+.dark a
+  background: light-dark(gray(22), gray(0))
   margin: 0
-  padding: .4em 0
+  padding: .4em .8em
+  &:hover
+    background: light(100)
+    color: light(0)
+    box-shadow: none
 
-.archive li:not(:last-of-type)
-  border-bottom: 1.5px dashed reduce(25)
+.katex-display
+  overflow: auto hidden
 
-.archive a
-  font-weight: 600
-  color: inherit
-  transition: .2s color
-  margin-left: .75em
-
-.archive a:hover
-  color: $link-color
-  text-decoration: none
-
-.icon
-  height: 1.05em
-  width: 1.05em
-  fill: currentColor
-  transition: .2s color
-  vertical-align: middle
-
-a:hover .icon
-  color: reduce(100)
-
-.katex
-  overflow-x: auto
-  overflow-y: hidden
+.rouge-table, .gist
+  pre, tr, td
+    background: inherit!important
+    font-size: inherit
+    color: inherit
+    border: none
+    margin: 0 1.5em 0 0
+    padding: 0

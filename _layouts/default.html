@@ -5,18 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-
-<meta property="og:title" content="JoshUndefined | {{ page.title | escape | default: site.title }}">
-<meta property="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | default: site.description }}">
-<meta property="og:image" content="{{ page.og_image | default: site.default_og_image | absolute_url }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:site_name" content="JoshUndefined.github.io">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="JoshUndefined | {{ page.title | escape | default: site.title }}">
-<meta name="twitter:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | default: site.description }}">
-<meta name="twitter:image" content="{{ page.og_image | default: site.default_og_image | absolute_url }}">
-
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
 <link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
@@ -48,11 +36,11 @@
 
 {{ content }}
 
-{% if site.external %}
-<footer>
-  <div>{{ site.description | default: site.title }}</div>
-  {% include menu.html menu=site.external %}
+{%- if site.footer -%}
+<footer class="hover">
+  <div>{{ site.description }}</div>
+  {% include menu.html menu=site.footer %}
 </footer>
-{% endif %}
+{%- endif -%}
 
 </html>

@@ -1,56 +1,46 @@
 body
-  background: $light
-  color: $dark
-  font-family: $font-family
+  font: 16px / #{$line-height} $font-family
   font-size: $font-size
-  line-height: $line-height
-  -webkit-text-size-adjust: 100%
-  -webkit-font-smoothing: antialiased
-
-@media (prefers-color-scheme: dark)
-  body
-    background: $dark
-    color: $light
+  background: light(100, 16)
+  color: light(6, 100)
 
 p
   text-align: justify
 
 a
-  color: $link-color
-  text-decoration: inherit
-  &:hover
-    text-decoration: underline
-
-header a, footer a, aside a
-  color: inherit
-
-time
-  color: reduce(100)
+  color: $link
+  transition: .25s
+  box-shadow: 0 2px transparent
+  text-decoration-color: transparent
+  header &, footer &, nav &
+    font-weight: bold
+  header &, footer &, nav &:not(:hover)
+    color: inherit
+  article &:hover
+    text-decoration-color: inherit
+  body > header &:hover, body > footer &:hover
+    box-shadow: 0 2px
 
 hr
-  border: 1px dashed
+  border: 1px solid gray(100)
   margin: 2em 0
 
-article:not(:last-of-type)
-  border-bottom: 1px solid reduce(18)
-
 blockquote
-  background: reduce(9)
-  border-left: 3px solid reduce(90)
+  background: gray(10)
+  color: light-dark(#555, #eee)
+  border-left: 3px solid gray(60)
   padding: 1px 1.5em
-  opacity: .75
 
 blockquote, figure
-  margin: 1em 0
+  margin: 1.25em 0
 
 img
   margin: .5em 0
-  border-radius: 2px
+  border-radius: 4px
   max-width: 100%
-  height: auto
 
 li
-  margin: .25em 0
+  margin: .3em 0
 
 table
   display: inline-block
@@ -61,23 +51,27 @@ table
 
 th, td
   padding: .5em 1em
-  border: 1px solid reduce(24)
+  border: 1px solid gray(24)
 
-thead, tr:hover td, tr:hover th
-  background: reduce(12)
+thead, tr:hover
+  background: gray(12)
 
 pre
-  background: reduce(12)
-  border-radius: 2px
   font-size: .8em
+  background: light(22)
+  color: light(100)
+  border-radius: 5px
   margin: 1.5em 0
   padding: .8em 1.2em
   overflow-x: auto
 
-\:not(pre) > code
+code:not(pre code)
   font-size: .9em
-  background: reduce(15)
-  opacity: .7
-  border-radius: 2px
+  background: gray(22)
+  border-radius: 3px
   margin: 0 .1em
   padding: .2em .4em
+  opacity: .75
+
+header time, nav time
+  color: gray(100)
