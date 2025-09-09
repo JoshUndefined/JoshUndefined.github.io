@@ -4,6 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
+[![Deploy Jekyll site to Pages](https://github.com/JoshUndefined/JoshUndefined.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/JoshUndefined/JoshUndefined.github.io/actions/workflows/jekyll.yml)
+
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
