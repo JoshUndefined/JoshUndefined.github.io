@@ -4,7 +4,7 @@ description: "Random ideas and tutorials as I discover them"
 default_og_image: "/assets/posts/2025-07-15-JoshUndefinedYTBanner.png"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!-- excerpt -->"
 date_format: "%Y %B %d"
 url: "https://joshundefined.github.io"
 
@@ -26,7 +26,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/joshundefined/"}
-  - {title: Twitter-X, icon: x-twitter, url: "https://x.com/JoshUndefined"}
+  - {title: Twitter-X, icon: twitter, url: "https://x.com/JoshUndefined"}
   - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/joshundefined.com"}
   - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/JoshUndefined"}
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@joshundefined"}
