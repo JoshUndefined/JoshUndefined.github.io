@@ -17,19 +17,19 @@ show_minimal: false             # remove all clutter
 
 #show_frame: "/assets/images/background.svg"
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+# Menu                          # for available icons see https://fontawesome.com/search?ip=brands%2Cclassic&ic=free&o=r
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", sidebaricon: home}
+  - {file: "index.html", sidebaricon: house}
   - {file: "archive.html"}
   # - {file: "README.md", sidebaricon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/joshundefined/"}
-  - {title: Twitter-X, icon: twitter, url: "https://x.com/JoshUndefined"}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/joshundefined.com"}
-  - {title: Twitch, icon: twitch, url: "https://www.twitch.tv/JoshUndefined"}
-  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@joshundefined"}
+  - {title: Github, icon: github, iconsheet: brands, url: "https://github.com/joshundefined/"}
+  - {title: Twitter-X, icon: twitter, iconsheet: brands, url: "https://x.com/JoshUndefined"}
+  - {title: Bluesky, icon: bluesky, iconsheet: brands, url: "https://bsky.app/profile/joshundefined.com"}
+  - {title: Twitch, icon: twitch, iconsheet: brands, url: "https://www.twitch.tv/JoshUndefined"}
+  - {title: YouTube, icon: youtube, iconsheet: brands, url: "https://www.youtube.com/@joshundefined"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
